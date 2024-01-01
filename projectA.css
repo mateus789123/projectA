@@ -1,0 +1,154 @@
+body {
+    width: 1600px;
+    height: 616px;
+    flex-shrink: 0;
+}
+body{
+background: #070A1B;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.projetoA {
+    color: #FCFCFC;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 227px;
+    height: 48;
+}
+
+h1.projetoA{
+    position: relative;
+    left: 165px;
+    top: -30px;
+}
+
+body div img {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+}
+
+.icone {
+    top: 64px;
+    left: 65px;
+    position: relative;
+}
+
+body nav {
+    width: 750px;
+    height: 81px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 120px;
+    left: 671px;
+}
+
+body nav ul {
+    color: #FCFCFC;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+nav.menu {
+    list-style-type: none;
+    border-radius: 40.5px;
+    border: 1px solid #1A1E35;
+    background: #111324;
+    position: relative;
+    top: -125px;
+    left: 521px;
+}
+
+.letras1 {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 40px;
+}
+.butoom{
+width: 224px;
+height: 81px;
+flex-shrink: 0;
+border-radius: 40.5px;
+background: #D41C25;
+position: relative;
+top: -210px;
+left: 1312px;
+}
+h3{
+color: #FCFCFC;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+top: -10px;
+left: 37px;
+}
+svg{
+width: 24px;
+height: 24px;
+flex-shrink: 0;
+position: relative;
+left: 1476px;
+top: -262px;
+}
+.cantact{
+color: #FCFCFC;
+font-family:'Inter', sans-serif;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+top: 0px;
+left:  618px;
+}
+.textuUs{
+color: rgba(252, 252, 252, 0.60);
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.ali3{
+    position: relative;
+    width: 800px;
+    top: 0px;
+    left: 389px;
+    text-align: center;
+}
+.lu{
+width: 117px;
+height: 137px;
+flex-shrink: 0;
+}
+.img1{
+    position: relative;
+    width: 128,15px;
+    height: 114px;
+    top: -150px;
+    left: 180px;
+    
+}
+.la{
+width: 117px;
+height: 137px;
+flex-shrink: 0;
+}
+.img2{
+    position: relative;
+    width: 177px;
+    height: 137px;
+    top: -275px;
+    left: 1369px;
+}
